@@ -1,0 +1,15 @@
+.promo__interactive{
+    color: white;
+    transition: 0.5s;
+}
+.header__logo img{
+    filter: invert(100%);
+    transition: 0.5s;
+}
+body{
+    background: #212121;
+    transition: 0.5s;
+}
+.promo__adv{
+    background: #212121;;
+}
